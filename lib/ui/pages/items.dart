@@ -108,7 +108,7 @@ class Items extends StatelessWidget {
           left: 90,
           child: Container(
             height: 1.5,
-            width: 40,
+            width: 42,
            color: Colors.blue,
           ),
         ),
